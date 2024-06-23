@@ -1,5 +1,7 @@
 # 在 React 生態圈打滾的一年 feat. TypeScript
 
+// Comments in English by me.  Currently focusing on the chapter on testing/
+
 Hi！大家好，我是神 Q 超人！這個 Repo 內的所有資料夾都是在「在 React 生態圈打滾的一年 feat. TypeScript」一書中每章節結束的完整範例內容，所有資料夾內都會是一個完整的專案，因此只要 clone 後，就可以到想運行的章節範例做 `npm install` 和 `npm run start` 運行專案。
 
 如果有任何問題或需要補充的地方，歡迎各位直接在 issue 中提出 😃！
