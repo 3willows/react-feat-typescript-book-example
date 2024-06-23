@@ -1,5 +1,4 @@
 import 'regenerator-runtime/runtime';
-import 'core-js/stable'; 
 import React from 'react';
 import { createStore, combineReducers, applyMiddleware } from 'redux';
 import { Provider } from 'react-redux';
