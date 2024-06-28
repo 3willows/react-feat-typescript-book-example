@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack -p",
     "start": "webpack-dev-server",
-    "test": "jest -t 'The count will be from 0 become 1 if I first executed increment method.'"},
+    "test": "jest"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
