@@ -11,7 +11,7 @@ const Home = () => {
     <>
       <h1>這裡是首頁</h1>
       <div>
-        {JSON.stringify(useSelector(state => state.user.user))}
+        {JSON.stringify(useSelector(state => state.user.name))}
       </div>
     </>
   )
