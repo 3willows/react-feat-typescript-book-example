@@ -12,6 +12,9 @@ const Menu = () => (
     <li>
       <Link to="/news">最新消息</Link>
     </li>
+    <li>
+      <Link to="/counter">Counter</Link>
+    </li>
   </ul>
 );
  
