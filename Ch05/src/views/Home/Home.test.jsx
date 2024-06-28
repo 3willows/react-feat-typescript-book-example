@@ -13,7 +13,7 @@ expect.extend({ toBeInTheDocument });
 test('The view will display user information from api after Home rendered', async () => {
   // Arrange
   global.fetch = jest.fn().mockResolvedValue(
-    { json: () => ({ user: '神 Q 超人' }) }
+    { json: () => ({ user: '神 L 超人' }) }
   );
   const store = createStore(
     combineReducers({ user }),
